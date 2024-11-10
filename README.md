@@ -34,8 +34,3 @@ INSERT INTO db_demo.authorities (authority_name) VALUES ('ROLE_ADMIN');
 
 ## 로그인 기능
 ![image](https://github.com/user-attachments/assets/c366bb23-cfa2-442f-8b6c-39516cb4dc61)
-
-
-
-
-```
