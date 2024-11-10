@@ -27,8 +27,9 @@ CREATE TABLE db_demo.user_authorities (
 
 INSERT INTO db_demo.authorities (authority_name) VALUES ('ROLE_USER');
 INSERT INTO db_demo.authorities (authority_name) VALUES ('ROLE_ADMIN');
-
+```
 ## 회원가입 기능
+
 ![image](https://github.com/user-attachments/assets/13736a5c-df57-4a4e-bc71-1d787f36e720)
 
 
