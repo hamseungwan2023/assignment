@@ -1,6 +1,9 @@
 # DB 설계
 ```sql
 
+-- 데이터베이스 생성
+CREATE DATABASE db_demo;
+
 -- user 테이블 생성
 CREATE TABLE db_demo.user (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
